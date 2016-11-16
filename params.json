@@ -1,0 +1,6 @@
+{
+  "name": "Caizimu.GitHub.io",
+  "tagline": "",
+  "body": "<html>\r\n<head>\r\n<title>第一个HTML代码</title>\r\n</head>\r\n<body>\r\n<div align=\"center\"><br/>\r\n <img src=\"http://p9.qhimg.com/t01c02b5feb36dac6d7.jpg\"height=\"600\"  width=\"1100\"><br/>\r\n</div>\r\n\r\n\r\n<div align=\"left\">\r\n<a href=\"http://www.1905.com/vod/play/893351.shtml\" >狼图腾</a>\r\n</div>\r\n\r\n<div align=\"center\">\r\n<hr width=\"1100\"  />\r\n<font color=\"red\" face=\"行书\">\r\n<h2>\r\n规则是历史的沉淀<br/>\r\n创新是心灵的沟通<br/>\r\n\r\n\r\n</font>\r\n</h3>\r\n<hr wedth=\"1100\"  />\r\n</div>\r\n</body>\r\n\r\n</html>",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
